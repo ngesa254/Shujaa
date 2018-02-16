@@ -17,3 +17,23 @@ This all encompassing collection of all things Rugby Union includes a huge range
 * Notifications - set these up to get notified of new team lineups, Match Kickoff, Half Time Score and Final Score.
 
 All in all this is the best Shujaa App we've ever made and we hope you love it as much as we do. Shujaa ni Moja! Okombe!
+
+
+What's New:
+----------
+
+## Build Instructions
+ 
+- Clone the project from GitHub: 
+   ```
+   git clone https://github.com/BloodCross/bloodCross-android.git
+   ```
+   or download the .zip [here](https://codeload.github.com/BloodCross/bloodCross-android/zip/master).
+
+- Import the project in Android Studio: **File > New > Import Project**.
+  Alternatively, from the Welcome screen, select **Import project**.
+
+Read more about contributing to BloodCross [here]().
+
+## Join Beta Testing
+Join our [Community on Google+](), then [click here]().
