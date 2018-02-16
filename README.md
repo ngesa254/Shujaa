@@ -2,7 +2,9 @@
 
 :rugby_football: A reliable source of Kenya Sevens rugby news. If you’re a hardcore Kenya Sevens fan or a rugby trivia nut then this easy-to-navigate app is definitely for you.
 
-This all encompassing collection of all things Rugby Union includes a huge range of awesome features for your Android device.
+## Upcoming Features
+
+This all encompassing collection of all things Rugby Union includes a huge range of awesome upcoming features for your Android device.
 
 * All the latest news on the Shujaa and other Kenya national teams and Super Cup
 * Great videos of our incredible ABs in action
@@ -17,7 +19,6 @@ This all encompassing collection of all things Rugby Union includes a huge range
 * Notifications - set these up to get notified of new team lineups, Match Kickoff, Half Time Score and Final Score.
 
 All in all this is the best Shujaa App we've ever made and we hope you love it as much as we do. Shujaa ni Moja! Okombe!
-
 
 What's New:
 ----------
