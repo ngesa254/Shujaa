@@ -22,6 +22,13 @@ All in all this is the best Shujaa App we've ever made and we hope you love it a
 What's New:
 ----------
 
+New Features
+1) New improved Stats for players/squads. Showing the 2017 performance statistics
+2) Worm feature in fixtures commentary section
+3) Support for Sevens fixtures and standings
+4) Stadium Live support for Hamilton Sevens event
+5) Bug fixes and performance improvements
+
 ## Build Instructions
  
 - Clone the project from GitHub: 
