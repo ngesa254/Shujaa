@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="shujaaRed">#df2e24</color>
+    <color name="shujaawhite">#fcfcfe</color>
+    <color name="shujaagreen">#009666</color>
+    <color name="shujaablack">#16101a</color>
 </resources>
